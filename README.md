@@ -25,7 +25,7 @@ Pilot your ship through an asteroid field and shoot everything that moves. Colli
 ### Installation
 
 ```bash
-git clone https://github.com/yourname/asteroids.git
+git clone https://github.com/michaelhwin/asteroids.git
 cd asteroids
 pip install pygame
 ```
